@@ -10,7 +10,7 @@ Este curso y repositorio de documentación está **basado fundamentalmente para 
 
 ---
 
-## 🗺️ Hoja de Ruta y Contenido del Curso
+##  Hoja de Ruta y Contenido del Curso
 
 A continuación se detalla el temario técnico estructurado por módulos de aprendizaje.
 
